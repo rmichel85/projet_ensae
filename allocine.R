@@ -1,9 +1,6 @@
 #install.packages("rvest")
 vignette("selectorgadget")
 
-#essai lego
-
-# J'ai fait une modif
 
 library(rvest)
 library(dplyr)
